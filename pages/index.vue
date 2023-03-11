@@ -1,5 +1,5 @@
 <template>
-  <h1>Index</h1>
+  <h1>Index2</h1>
 </template>
 
 <script>

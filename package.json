@@ -9,6 +9,6 @@
   },
   "devDependencies": {
     "@sidebase/nuxt-session": "^0.2.7",
-    "nuxt": "^3.2.3"
+    "nuxt": "^3.4.3"
   }
 }
